@@ -10,3 +10,6 @@ https://github.com/aditya9898/100_days_of_ml_code/blob/master/code/%5Bday%202%5D
 
 # Day 3
 attended the ml code jam workshop conducted by Google. Learnt about tf.estimators and intro to tensorflow.
+
+# Day 4
+Revised keras modes and made a 3 layer conv model to fit the fashion mnist dataset. Attained 90% accuracy on both test and train sets. Have to learn why batch normalization affects the training of conv nets so much.
