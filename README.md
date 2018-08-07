@@ -16,3 +16,6 @@ Revised keras modes and made a 3 layer conv model to fit the fashion mnist datas
 
 # Day 5
 Created a convolutional neural net in tensorflow and trained a model on the fashion-mnist dataset. A few errors left to debug. Once finnished, will do an analysis on which architecture is best suited to train a model on fashion-mnist.  Code will be uploaded in the ./code folder.
+
+# Day 6
+Spent the whole day debugging tensorflow conv net code. When making conv nets in tf, we initialize the weight variables(w1,w2,w3) but tf automatically manages the bias and fully connected layer weights. After training how to return these parameters so as to make predictions on new data? 
