@@ -19,3 +19,7 @@ Created a convolutional neural net in tensorflow and trained a model on the fash
 
 # Day 6
 Spent the whole day debugging tensorflow conv net code. When making conv nets in tf, we initialize the weight variables(w1,w2,w3) but tf automatically manages the bias and fully connected layer weights. After training how to return these parameters so as to make predictions on new data? 
+
+# Day 7
+Learnt transer learning using keras. Tried using different models such as ResNet50 and MobileNet. Froze the initial layers and trained the final layers to make a smiling/not smiling classifier using MobileNet.
+
