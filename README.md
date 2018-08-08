@@ -21,6 +21,6 @@ Created a convolutional neural net in tensorflow and trained a model on the fash
 Spent the whole day debugging tensorflow conv net code. When making conv nets in tf, we initialize the weight variables(w1,w2,w3) but tf automatically manages the bias and fully connected layer weights. After training how to return these parameters so as to make predictions on new data? 
 
 # Day 7
-Learnt transer learning using keras. Tried using different models such as ResNet50 and MobileNet. Froze the initial layers and trained the final layers to make a smiling/not smiling classifier using MobileNet. Also worked on google colaboratory and used transfer learning onthe resnet50 model to train a dataset of 'cats/dogs'. Link to the code below.....
+Learnt transfer learning using keras. Tried using different models such as ResNet50 and MobileNet. Froze the initial layers and trained the final layers to make a smiling/not smiling classifier using MobileNet. Also worked on google colaboratory and used transfer learning on the resnet50 model to train a dataset of 'cats/dogs'. Link to the code below.....
 https://github.com/aditya9898/100_days_of_ml_code/blob/master/code/%5Bday%207%5D%20keras%20transfer%20learning%20%5B8%20aug%202018%5D.ipynb
 
