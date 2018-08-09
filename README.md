@@ -24,3 +24,5 @@ Spent the whole day debugging tensorflow conv net code. When making conv nets in
 Learnt transfer learning using keras. Tried using different models such as ResNet50 and MobileNet. Froze the initial layers and trained the final layers to make a smiling/not smiling classifier using MobileNet. Also worked on google colaboratory and used transfer learning on the resnet50 model to train a dataset of 'cats/dogs'. Link to the code below.....
 https://github.com/aditya9898/100_days_of_ml_code/blob/master/code/%5Bday%207%5D%20keras%20transfer%20learning%20%5B8%20aug%202018%5D.ipynb
 
+# Day 8
+Implemented transfer learning on a few real world datasets. Learnt about Train_data_generators in keras and used it to train the dog breed classifier. Used python to make nested folders and to sort the pictures of different breeds of dogs in different folders for it to be used with train data generator.
