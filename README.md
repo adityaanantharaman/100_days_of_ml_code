@@ -26,3 +26,9 @@ https://github.com/aditya9898/100_days_of_ml_code/blob/master/code/%5Bday%207%5D
 
 # Day 8
 Implemented transfer learning on a few real world datasets. Learnt about Train_data_generators in keras and used it to train the dog breed classifier. Used python to make nested folders and to sort the pictures of different breeds of dogs in different folders for it to be used with train data generator.
+
+# Day 9
+Used transfer learning to train the dog breed classifier on MobileNet. Achieved an accuracy of 77% in the training set but not much accuracy on the test set.
+
+# Day 10
+Attended Week 2 of ML Code Jam by Google and Kerala AI. Met a few freelancers in the field and interracted with them. Got to know about several hackathons and methods to learn ML.
