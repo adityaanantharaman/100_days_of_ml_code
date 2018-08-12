@@ -32,3 +32,6 @@ Used transfer learning to train the dog breed classifier on MobileNet. Achieved 
 
 # Day 10
 Attended Week 2 of ML Code Jam by Google and Kerala AI. Met a few freelancers in the field and interracted with them. Got to know about several hackathons and methods to learn ML.
+
+# Day 11
+Attempted training the dog breed classifier in a kaggle kernel. Attended a meetup and met a lot of people. Planning on submitting the predictions of the test dataset of the dog breed clkassification competition. Code will be posted in the './code' folder.
