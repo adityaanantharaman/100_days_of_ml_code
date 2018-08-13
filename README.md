@@ -35,3 +35,6 @@ Attended Week 2 of ML Code Jam by Google and Kerala AI. Met a few freelancers in
 
 # Day 11
 Attempted training the dog breed classifier in a kaggle kernel. Attended a meetup and met a lot of people. Planning on submitting the predictions of the test dataset of the dog breed clkassification competition. Code will be posted in the './code' folder.
+
+# Day 12 
+Took a break from coding today. Went through a couple of repositories. Revised neural style transfer. Planing on implementing it tomorrow.
