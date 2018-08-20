@@ -1,7 +1,7 @@
 # 100_days_of_ml_code
 Attempting the #100_days_of_ml_code challenge inspired by Siraj Raval. Will be writing my thoughts at the end of the day, here. All the code can be found in the './code' folder.
 
-# Day 1
+# Day 1 (Aug 2)
 Revised tensorflow from scratch. Created a program to train a model on the fashion-mnist data set. However not being able to train for over a few epochs. Working on it. code in the 'code' folder.
 
 # Day 2
@@ -38,3 +38,7 @@ Attempted training the dog breed classifier in a kaggle kernel. Attended a meetu
 
 # Day 12 
 Took a break from coding today. Went through a couple of repositories. Revised neural style transfer. Planing on implementing it tomorrow.
+
+# August 14-August 19 
+Took a break. Could not find time everyday. (Kerala Floods)
+
