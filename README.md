@@ -39,6 +39,6 @@ Attempted training the dog breed classifier in a kaggle kernel. Attended a meetu
 # Day 12 
 Took a break from coding today. Went through a couple of repositories. Revised neural style transfer. Planing on implementing it tomorrow.
 
-# August 14-August 19 
+# August 14-August 21
 Took a break. Could not find time everyday. (Kerala Floods)
 
