@@ -45,3 +45,5 @@ Took a break. Could not find time everyday.
 # Day 13 [aug 23]
 Revisited transfer learning in keras. Went through Lesson 1 of fast.ai on google colab. Worked on Neural Style Transfer with help from Siraj Ravals video.
 
+# Day 14 
+Learnt neural style transfer and the concept of gram matrix. Learnt how to use a pretrained conv net in tensorflow.
