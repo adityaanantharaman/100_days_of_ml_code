@@ -46,4 +46,4 @@ Took a break. Could not find time everyday.
 Revisited transfer learning in keras. Went through Lesson 1 of fast.ai on google colab. Worked on Neural Style Transfer with help from Siraj Ravals video.
 
 # Day 14 
-Learnt neural style transfer and the concept of gram matrix. Learnt how to use a pretrained conv net in tensorflow.
+Learnt neural style transfer and the concept of gram matrix. Learnt how to use a pretrained conv net in tensorflow. Also uploaded code for some simple file transfers in python so as to enable the use of keras ImageDataGenerators. For code view ImportantCodeSnipets repo.
