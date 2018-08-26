@@ -47,3 +47,10 @@ Revisited transfer learning in keras. Went through Lesson 1 of fast.ai on google
 
 # Day 14 
 Learnt neural style transfer and the concept of gram matrix. Learnt how to use a pretrained conv net in tensorflow. Also uploaded code for some simple file transfers in python so as to enable the use of keras ImageDataGenerators. For code view ImportantCodeSnipets repo.
+
+# Day 15
+Attempted to do style transfer on kaggle. Learnt the tensorflow code to do the same. However errors exist. Working on it.
+
+# Day 16
+Continuing to do style transfer on kaggle. Have doubts with the working of tensorflow optimizers and how they work. Working on it.
+Refreshed knowledge on gram matrices and style cost of neural style transfer.
