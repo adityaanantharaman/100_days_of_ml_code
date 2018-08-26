@@ -54,3 +54,4 @@ Attempted to do style transfer on kaggle. Learnt the tensorflow code to do the s
 # Day 16
 Continuing to do style transfer on kaggle. Have doubts with the working of tensorflow optimizers and how they work. Working on it.
 Refreshed knowledge on gram matrices and style cost of neural style transfer.
+[Link to code](https://github.com/aditya9898/100_days_of_ml_code/blob/master/code/kernel.ipynb)
