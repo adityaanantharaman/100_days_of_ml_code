@@ -55,3 +55,7 @@ Attempted to do style transfer on kaggle. Learnt the tensorflow code to do the s
 Continuing to do style transfer on kaggle. Have doubts with the working of tensorflow optimizers and how they work. Working on it.
 Refreshed knowledge on gram matrices and style cost of neural style transfer.
 [Link to code](https://github.com/aditya9898/100_days_of_ml_code/blob/master/code/kernel.ipynb)
+
+# Day 17
+Found this amazing [blog](https://harishnarayanan.org/writing/artistic-style-transfer/) on style transfer.
+Going through it. Cleared a few doubts about tensorflow optimizers through [reddit](https://www.reddit.com/r/MachineLearning/).
