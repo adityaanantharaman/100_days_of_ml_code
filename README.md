@@ -59,3 +59,6 @@ Refreshed knowledge on gram matrices and style cost of neural style transfer.
 # Day 17
 Found this amazing [blog](https://harishnarayanan.org/writing/artistic-style-transfer/) on style transfer.
 Going through it. Cleared a few doubts about tensorflow optimizers through [reddit](https://www.reddit.com/r/MachineLearning/).
+
+# Day 18
+Tried debugging the style transfer ipnb.
