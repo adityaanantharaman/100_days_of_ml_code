@@ -62,3 +62,6 @@ Going through it. Cleared a few doubts about tensorflow optimizers through [redd
 
 # Day 18
 Tried debugging the style transfer ipnb.
+
+# Day 19
+Understood neural style transfer. Learnt features of tensorflow. Implementing neural style transfer from scratch using vgg 19 pretrained model on imagenet.
