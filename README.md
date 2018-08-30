@@ -67,4 +67,4 @@ Tried debugging the style transfer ipnb.
 Understood neural style transfer. Learnt features of tensorflow. Implementing neural style transfer from scratch using vgg 19 pretrained model on imagenet.
 
 # Day 20
-Implemented neural style transfer on kaggle kernel. The model trains fine. Error in computing style cost. The model used is vgg19 and trained on tensorflow. Working on the style cost function.
+Implemented neural style transfer on kaggle kernel. The model trains fine. Error in computing style cost. The model used is vgg19 and trained on tensorflow. Working on the style cost function. Find the code [here](https://github.com/aditya9898/100_days_of_ml_code/blob/master/code/%5BAug%2030%5Dstyle%20transfer%20partly%20working.ipynb).
