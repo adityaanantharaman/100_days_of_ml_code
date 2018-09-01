@@ -71,3 +71,6 @@ Implemented neural style transfer on kaggle kernel. The model trains fine. Error
 
 # Day 21
 Attempted style transfer from scratch again. Still refining model and fixing bugs. The model trains however the content cost fails to decrease. Doing on kaggle kernel.
+
+# Day 22
+Attended week 3 of Google ML study jam. Cleared a few doubts about style transfer.
