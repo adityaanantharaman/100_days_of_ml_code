@@ -76,4 +76,4 @@ Attempted style transfer from scratch again. Still refining model and fixing bug
 Attended week 3 of Google ML study jam. Cleared a few doubts about style transfer.
 
 # Day 23
-Started writing a ablog on medium about transfer learning in keras. Ran the style transfer ipnb on kaggle and colaboratory. Results are the same. Some errors still exist.
+Started writing a a blog on medium about transfer learning in keras. Ran the style transfer ipnb on kaggle and colaboratory. Results are the same. Some errors still exist.
