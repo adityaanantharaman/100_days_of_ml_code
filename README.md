@@ -77,3 +77,6 @@ Attended week 3 of Google ML study jam. Cleared a few doubts about style transfe
 
 # Day 23
 Started writing a a blog on medium about transfer learning in keras. Ran the style transfer ipnb on kaggle and colaboratory. Results are the same. Some errors still exist.
+
+# Day 24 [oct 10]
+went through tensorflow.org and implemented the mnist classification tutorial on google colab. Learnt about sparse categorical cross entropy loss function. Going through the tensorflow.org tutorials sequentially. 
