@@ -80,3 +80,11 @@ Started writing a a blog on medium about transfer learning in keras. Ran the sty
 
 # Day 24 [oct 10]
 went through tensorflow.org and implemented the mnist classification tutorial on google colab. Learnt about sparse categorical cross entropy loss function. Going through the tensorflow.org tutorials sequentially. 
+
+# Day 25 [oct 11]
+Learnt the clone-commit-push-pull_request cycle and contributed to two repos. Made first open-source contribution. 
+
+# Day 26 [oct 13]
+Attended the GDG Dev fest Bangalore. Met a lot of people and networked. Learnt about google actions.
+
+# Day 27 [oct 15]
