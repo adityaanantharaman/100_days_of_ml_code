@@ -88,3 +88,7 @@ Learnt the clone-commit-push-pull_request cycle and contributed to two repos. Ma
 Attended the GDG Dev fest Bangalore. Met a lot of people and networked. Learnt about google actions.
 
 # Day 27 [oct 15]
+Read blog on conv nets and revised what the different layers of a conv net actually learn. Wrote blog on transfer learning.
+
+# Day 28 [oct 16]
+Finished blog on transfer learning. Made transfer-learning repo as a tutorial with the blog.
