@@ -92,3 +92,6 @@ Read blog on conv nets and revised what the different layers of a conv net actua
 
 # Day 28 [oct 16]
 Finished blog on transfer learning. Made transfer-learning repo as a tutorial with the blog.
+
+# Day 29,30,31,32 [oct 17-20]
+Started learning reinforcement learning. Created repo which contains my RL journey [here](https://github.com/aditya9898/Reinforcement-Learning-Journey) .
